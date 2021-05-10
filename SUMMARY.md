@@ -1,12 +1,8 @@
 # Table of contents
 
-* [index](README.md)
+* [README](README.md)
 
-## github-learning-lab
+## main
 
-* [Building Blocks of Life Apps - Components](github-learning-lab/building-blocks-of-life-apps-components.md)
-
-## extranious-info
-
-* [About pull request reviews](extranious-info/untitled.md)
+* [Building Blocks of Life](main/building-blocks-of-life.md)
 
