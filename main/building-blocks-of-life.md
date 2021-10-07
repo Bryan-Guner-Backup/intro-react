@@ -4,10 +4,10 @@ Awesome! You successfully opened a pull request!
 
 In this Pull Request you will:
 
-* Add components
-* Pass data to child components
-* Create and use state variables
-* Use callback functions to communicate data
+- Add components
+- Pass data to child components
+- Create and use state variables
+- Use callback functions to communicate data
 
 First, we'll learn about components.
 
@@ -31,25 +31,19 @@ This line takes a component's properties to create a component named "App". In t
 
 Scroll down to add a header component.
 
-
-
-
-
-
-
 [src/App.jsx](https://github.com/Bryan-Guner-Backup/intro-react/pull/2/files/0f2cc53cf1869241e40899fc41c0066ab37373e8#diff-d274a54187c91ba0f532df2a9e194e27ab50e988f5e4c33f5a7893918320c661)
 
-|  |  |  return \( |
-| :--- | :--- | :--- |
-|  |  |  &lt;div&gt; |
-|  |  |  &lt;div className="Box Box--spacious f4"&gt; |
-|  |  |  &lt;div className="Box-header"&gt; |
-|  |  |  {/\* Replace this line with the proper header code\*/} |
-|  |  |  &lt;/div&gt; |
+|     |     | return \(                                              |
+| :-- | :-- | :----------------------------------------------------- |
+|     |     | &lt;div&gt;                                            |
+|     |     | &lt;div className="Box Box--spacious f4"&gt;           |
+|     |     | &lt;div className="Box-header"&gt;                     |
+|     |     | {/\* Replace this line with the proper header code\*/} |
+|     |     | &lt;/div&gt;                                           |
 
- [![@github-learning-lab](https://avatars.githubusercontent.com/in/10572?s=60&v=4)](https://github.com/marketplace/github-learning-lab) 
+[![@github-learning-lab](https://avatars.githubusercontent.com/in/10572?s=60&v=4)](https://github.com/marketplace/github-learning-lab)
 
-**github-learning-lab bot 4 hours ago** 
+**github-learning-lab bot 4 hours ago**
 
 ### Step 2: Adding components
 
@@ -75,4 +69,3 @@ Let's add a child component and give our app a header. At the end of the step, y
    git commit -m "add a header component"
    git push
    ```
-

@@ -19,7 +19,7 @@ class Table extends React.Component {
               className="form-control input-sm"
               type="text"
               placeholder={this.getValue(this.props.data, name, row)}
-              onChange={event =>
+              onChange={(event) =>
                 this.props.addFunction(name, row, event.target.value)
               }
             />

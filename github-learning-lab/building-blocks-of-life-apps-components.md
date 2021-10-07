@@ -2,20 +2,16 @@
 
 In this Pull Request you will:
 
-* Add components
-* Pass data to child components
-* Create and use state variables
-* Use callback functions to communicate data
+- Add components
+- Pass data to child components
+- Create and use state variables
+- Use callback functions to communicate data
 
 First, we'll learn about components.
 
 ### Components
 
 **Components** are the **building blocks of React apps**. Think of components as different parts of the app. Each button is a component, each paragraph of text is a component, and so on. From html, you might recognize some of the built in components like `<div />` and `<li />`. In React, we can create our own components! How cool is that?
-
-
-
-
 
 #### Components in `src/App.jsx`
 
@@ -32,12 +28,6 @@ class App extends React.Component
 This line takes a component's properties to create a component named "App". In the `render` method of `App`, there are other components like `<button/>`. These components are **child components** because they are all a part of its parent, `App`.
 
 Scroll down to add a header component.
-
-
-
-
-
-
 
 ### Step 2: Adding components
 
@@ -63,4 +53,3 @@ Let's add a child component and give our app a header. At the end of the step, y
    git commit -m "add a header component"
    git push
    ```
-

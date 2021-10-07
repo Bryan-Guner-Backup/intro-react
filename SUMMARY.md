@@ -1,8 +1,7 @@
 # Table of contents
 
-* [README](README.md)
+- [README](README.md)
 
 ## main
 
-* [Building Blocks of Life](main/building-blocks-of-life.md)
-
+- [Building Blocks of Life](main/building-blocks-of-life.md)

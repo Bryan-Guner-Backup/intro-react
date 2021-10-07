@@ -1,7 +1,5 @@
 # index
 
-
-
 ## Introduction to React
 
 [![avatar](https://avatars3.githubusercontent.com/u/2036237?v=4) The GitHub Training Team](https://lab.github.com/githubtraining)
@@ -66,9 +64,9 @@ Congratulations on taking some of your first steps into full stack development.
 
 So why did you decide to click and join this course? Ideally, you are a learner who:
 
-* Understands HTML tags
-* Understands classes and methods in JavaScript
-* Understands Git and GitHub
+- Understands HTML tags
+- Understands classes and methods in JavaScript
+- Understands Git and GitHub
 
 If you understand the topics above, you can start learning modern frontend development with React.
 
@@ -80,38 +78,38 @@ React has growing popularity in the tech industry because of its simplicity. Wit
 
 We'll answer common questions like:
 
-* How do you setup a React project?
-* What is a component and how are they used?
-* How do you add components?
-* How is data passed to child components?
-* How are state variables created and used?
-* What is a callback function and how is it used to communicate data?
+- How do you setup a React project?
+- What is a component and how are they used?
+- How do you add components?
+- How is data passed to child components?
+- How are state variables created and used?
+- What is a callback function and how is it used to communicate data?
 
 And when you're done you'll be able to:
 
-* Setup a React project
-* Add and use components
-* Pass data to child components
-* Use state variables
-* Use callback functions to communicate data
+- Setup a React project
+- Add and use components
+- Pass data to child components
+- Use state variables
+- Use callback functions to communicate data
 
 ### What you'll build <a id="what-youll-build"></a>
 
 We'll be building a gradebook for teachers! ![gradebook](https://user-images.githubusercontent.com/57373296/75573382-b92bc080-5a2a-11ea-87f8-afa4effedaa3.gif)
 
-* Completed [source repository](https://github.com/githubtraining/react-course)
-* Completed [Gradebook](https://githubtraining.github.io/react-solution/).
+- Completed [source repository](https://github.com/githubtraining/react-course)
+- Completed [Gradebook](https://githubtraining.github.io/react-solution/).
 
 ### Prerequisites <a id="prerequisites"></a>
 
 Before starting this course, we recommend:
 
-* Completing the [Introduction to GitHub Learning Lab](https://lab.github.com/githubtraining/introduction-to-github) with the option for working locally in the command line.
-* Completing the [Introduction to HTML Learning Lab](https://lab.github.com/githubtraining/introduction-to-html/)
+- Completing the [Introduction to GitHub Learning Lab](https://lab.github.com/githubtraining/introduction-to-github) with the option for working locally in the command line.
+- Completing the [Introduction to HTML Learning Lab](https://lab.github.com/githubtraining/introduction-to-html/)
 
 ### Projects used <a id="projects-used"></a>
 
-* This course uses [node.js](https://nodejs.org/en/download/) We'll install this as part of the first step in the course.
+- This course uses [node.js](https://nodejs.org/en/download/) We'll install this as part of the first step in the course.
 
 ### Audience <a id="audience"></a>
 
@@ -129,7 +127,7 @@ New developers, new GitHub users, users new to Git, students, teams[ Bryan-Guner
 
 All public courses on Learning Lab are _free_.
 
- **Get help**
+**Get help**
 
 [Post on the GitHub Community Forum](https://github.community/c/education/github-learning-lab/34/l/latest)
 
@@ -139,29 +137,28 @@ December 2, 2020
 
 **Users who took this course also took**
 
-*  **Introduction to Node with Express**
+- **Introduction to Node with Express**
 
-  by [everydeveloper](https://lab.github.com/everydeveloper)
+by [everydeveloper](https://lab.github.com/everydeveloper)
 
-  Node.js gives you the ability to run JavaScript files on the server-side. Express is a library for...
+Node.js gives you the ability to run JavaScript files on the server-side. Express is a library for...
 
-*  **InnerSource fundamentals**
+- **InnerSource fundamentals**
 
-  by [The GitHub Training Team](https://lab.github.com/githubtraining)
+by [The GitHub Training Team](https://lab.github.com/githubtraining)
 
-  Organizations of all sizes and in all industries are chatting about InnerSource concepts. This...
+Organizations of all sizes and in all industries are chatting about InnerSource concepts. This...
 
-*  **Introduction to GitHub**
+- **Introduction to GitHub**
 
-  by [The GitHub Training Team](https://lab.github.com/githubtraining)
+by [The GitHub Training Team](https://lab.github.com/githubtraining)
 
-  If you are looking for a quick and fun introduction to GitHub, you've found it. This class will get...
+If you are looking for a quick and fun introduction to GitHub, you've found it. This class will get...
 
-* © 2021 GitHub, Inc.
-* [Contact GitHub](https://github.com/contact)
-* [Blog](https://github.com/blog)
-* [About](https://github.com/about)
-* [Community](https://github.community/)
-* [Help Center](https://lab.github.com/docs)
-* [Terms](https://lab.github.com/terms)
-
+- © 2021 GitHub, Inc.
+- [Contact GitHub](https://github.com/contact)
+- [Blog](https://github.com/blog)
+- [About](https://github.com/about)
+- [Community](https://github.community/)
+- [Help Center](https://lab.github.com/docs)
+- [Terms](https://lab.github.com/terms)

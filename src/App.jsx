@@ -8,7 +8,7 @@ class App extends React.Component {
     this.state = {
       buttonClicked: "",
       assignments: [],
-      grades: {}
+      grades: {},
     };
 
     this.handleButtonClicked = this.handleButtonClicked.bind(this);
@@ -18,13 +18,13 @@ class App extends React.Component {
 
   handleButtonClicked(buttonName) {
     this.setState({
-      buttonClicked: buttonName
+      buttonClicked: buttonName,
     });
   }
 
   addAssignment(assignmentName) {
     this.setState({
-      assignments: this.state.assignments.concat(assignmentName)
+      assignments: this.state.assignments.concat(assignmentName),
     });
   }
 
@@ -45,8 +45,7 @@ class App extends React.Component {
     return (
       <div>
         <div className="Box Box--spacious f4">
-          <div className="Box-header">
-          </div>
+          <div className="Box-header"></div>
         </div>
         <nav className="UnderlineNav d-flex flex-justify-center">
           <div className="UnderlineNav-body pt-6">
